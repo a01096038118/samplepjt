@@ -31,8 +31,8 @@ logs/
 # Spring Boot
 # ==============================
 # 환경별 설정 파일
-application-local.yml
-application-local.properties
+#application-local.yml
+#application-local.properties
 
 # 환경 변수 / 비밀 정보
 .env
